@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button {
+    min-width: 70px;
+    min-height: 25px;
+}
+
+
+.containers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
